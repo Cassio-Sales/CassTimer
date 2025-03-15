@@ -9,3 +9,8 @@
 ### Added
 - Implemented logic to update cycles in the History container.
 
+
+## [1.2.0] - 2025-03-15
+### Added
+- Use a method called formatDistanceToNow from date-fns to format the date at the history container
+
