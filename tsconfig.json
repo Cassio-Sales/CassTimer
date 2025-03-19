@@ -21,7 +21,7 @@
   
 =======
     "jsx": "react-jsx",
-    "allowImportingTsExtensions": true // Esta é a modificação
+    "allowImportingTsExtensions": true
   },
   "include": ["src"]
 >>>>>>> 92a481d (feat:use immer and saving history at local storage)
