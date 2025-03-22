@@ -9,15 +9,15 @@ export function History() {
 
   return (
     <HistoryContainer>
-      <h1>Meu histórico</h1>
+      <h1>History</h1>
 
       <HistoryList>
         <table>
           <thead>
             <tr>
-              <th>Tarefa</th>
-              <th>Duração</th>
-              <th>Duração</th>
+              <th>Task</th>
+              <th>Duration</th>
+              <th>Time</th>
               <th>Status</th>
             </tr>
           </thead>
