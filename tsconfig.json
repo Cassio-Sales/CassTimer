@@ -14,15 +14,8 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-<<<<<<< HEAD
-    "jsx": "react-jsx"
-  },
-  "include": ["src"],
-  
-=======
     "jsx": "react-jsx",
     "allowImportingTsExtensions": true
   },
   "include": ["src"]
->>>>>>> 92a481d (feat:use immer and saving history at local storage)
 }
